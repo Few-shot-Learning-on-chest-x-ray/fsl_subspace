@@ -1,0 +1,10 @@
+einops
+timm 
+torchinfo 
+torchsummary 
+torchnet
+wandb
+adabelief_pytorch 
+scikit-plot
+pandas
+h5py

@@ -1,0 +1,10 @@
+wandb
+cifar
+miniimagenet
+**__pycache__**
+experiments
+tieredimagenet
+NIH/images/
+*.zip
+plot/*
+*.pth
